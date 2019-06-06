@@ -1,0 +1,16 @@
+{  
+   "profiles":[  
+      {  
+         "avatarIndex": 1,
+         "avatarName": "Johny"
+      },
+      {  
+         "avatarIndex": 12,
+         "avatarName": "Jennifer"
+      },
+      {  
+         "avatarIndex": 3,
+         "avatarName": "Adam"
+      }
+   ]
+}
